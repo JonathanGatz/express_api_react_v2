@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.user-container {
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #61dafb;
+  color: #282c34;
+  cursor: cell;
+}
+
+.user-container:hover {
+  background-color: #56c4e3;
+  color: #282c34;
+}
